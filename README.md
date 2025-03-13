@@ -3,7 +3,7 @@
 A fun and interactive Snake Game built with **HTML, CSS, and JavaScript**. The game offers a classic experience with smooth animations, responsive design, and real-time score tracking.
 
 ## 🖼️ Preview
-![Snake Game Screenshot](snakegame.png)  
+![Snake Game Screenshot](snake.png)  
 
 ## 🚀 Features
 - **Interactive Gameplay** – Control the snake using arrow keys to eat the food and grow longer.
